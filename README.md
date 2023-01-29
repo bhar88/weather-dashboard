@@ -17,8 +17,9 @@ Previous searches are saved in localStorage and the five (5) most recent searche
 
 ## Website
 (https://bhar88.github.io/weather-dashboard/#)
+![Screenshot (6)](https://user-images.githubusercontent.com/117860618/215345137-71b9e979-3607-4042-9f84-f24268d07eec.png)
 
-![web page screenshot]("weather-dashboard\assets\Screenshot (6).png")
+
 
 ## Contribution
 Made by Barry Hardacre
